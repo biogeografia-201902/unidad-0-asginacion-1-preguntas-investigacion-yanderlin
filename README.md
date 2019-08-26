@@ -1,6 +1,4 @@
 # Pregunta/s de investigación
-¿Qué tipo de cebo prefieren las hormigas?
-¿A cuál responden más y qué variedad de especies hay?
 Formula tu/s pregunta/s de investigación. Ten en cuenta que tu/s pregunta/s debe...
 
 * ... poderse responder con un flujo de trabajo definible y temático, basado en el análisis exploratorio de datos, la estadística y la ecología numérica.
@@ -9,4 +7,5 @@ Formula tu/s pregunta/s de investigación. Ten en cuenta que tu/s pregunta/s deb
 * ... estar relacionada con hormigas del campus de la UASD.
 
 Mi/s pregunta/s de investigación es/son la/s siguiente/s:
-
+¿Qué tipo de cebo prefieren las hormigas?
+¿A cuál responden más y qué variedad de especies hay?
